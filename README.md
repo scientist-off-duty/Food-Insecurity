@@ -25,12 +25,11 @@ Executive Control - The Arizona Life History Battery: Insight, Planning, and Con
 Risk & Reward - The Behavioral Inhibition System/Behavioral Activation System Scales (Vandeweghe  et  al.,  2016); The Sensitivity to Punishment and Sensitivity to Reward Questionnaire (Torrubia et al., 2001; Vandeweghe et al., 2016); Balloon Analogue Risk Task (Lejuez et al., 2002).
 
 ## Getting Started
-1. Raw Data is being kept [here](folder containing raw data)
-2. Data processing/transformation scripts are being kept [here](folder containing data processing scripts/notebooks)
-3. Research Questions and Answer scripts are kept [here](folder containing research questions, analyses, and results)
-4. Data Vizualizations scripts are kept [here](folder containing all plots and charts)
+1. Raw Data is being kept [here](https://github.com/scientist-off-duty/Food-Insecurity/blob/bcfe5bad551d2e260524fc35f3396fcb6b4ec919/final_scores_2021_3-22.csv)
+3. Data processing/transformation scripts are being kept [here](https://github.com/scientist-off-duty/Food-Insecurity/blob/bcfe5bad551d2e260524fc35f3396fcb6b4ec919/Data%20Prep%20minus%20STROOP.R)
+4. Research Questions and Answer scripts are kept [here](folder containing research questions, analyses, and results](https://github.com/scientist-off-duty/Food-Insecurity/blob/bcfe5bad551d2e260524fc35f3396fcb6b4ec919/Main%20Research%20Questions.R)
+5. Data Vizualizations scripts are kept [here](https://github.com/scientist-off-duty/Food-Insecurity/blob/bcfe5bad551d2e260524fc35f3396fcb6b4ec919/Graphs%20and%20Chart.R)
 
 ## Featured Notebooks/Analysis/Deliverables
-* [Notebook/Markdown/Slide Deck Title](link)
-* [Notebook/Markdown/Slide DeckTitle](link)
-* [Blog Post](link)
+* [Neurosalon Presentation Data](https://github.com/scientist-off-duty/Food-Insecurity/blob/bcfe5bad551d2e260524fc35f3396fcb6b4ec919/Final%20NeuroSalon%20Presentation.R)
+* [Neurosalon Presentation Slides](https://cornell.box.com/s/172fel0686g5lau9h8033z8b1l4ha90y)
