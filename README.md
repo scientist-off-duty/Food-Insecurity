@@ -1,57 +1,36 @@
 # Food Insecurity
 
-This project is a part of the Life History Lab [link] 
+This project is a part of the Life History Lab.
 
 #### -- Project Status: Active
 
 ## Project Intro/Objective
-The purpose of this project is to quantify the effect of food insecurity on risk taking and reward seeking in an undergraduate Ivy League population. Secondly, this project identifies a key indicator in performance: executive control. [Potential civic impact]
+The purpose of this project is to quantify the effect of food insecurity on risk taking and reward seeking in an undergraduate Ivy League population. Secondly, this project identifies a key indicator in performance: executive control. 
 
 ### Methods Used
-* Inferential Statistics
-* Structural Equation Modeling
+* Poisson regression (log-linear model)
 * Data Visualization
 
 ### Technologies
 * R 
 
 ## Project Description
-(Provide more detailed overview of the project.  Talk a bit about your data sources and what questions and hypothesis you are exploring. What specific data analysis/visualization and modelling work are you using to solve the problem? What blockers and challenges are you facing?  Feel free to number or bullet point things here)
+This projects' input includes 2021 qualtrics survey and behavioral data from the Developmental Context and Life History Strategies study. Using multivariate poisson regressions, I verified the interaction between food security status, executive control, and risk/reward tolerance. 
+
+Measures:
+Food Security - The Subset of the Core US Household Food Insecurity Scale Measure (Blumberg, et al., 1999); The  Radimer/Cornell  Measure  of  Hunger  and  Food  Insecurity Measure  (Radimer,  2002)
+
+Executive Control - The Arizona Life History Battery: Insight, Planning, and Control (20 items) (adapted from Brim et al., 2000; Figueredo et al., 2004, 2007)
+
+Risk & Reward - The Behavioral Inhibition System/Behavioral Activation System Scales (Vandeweghe  et  al.,  2016); The Sensitivity to Punishment and Sensitivity to Reward Questionnaire (Torrubia et al., 2001; Vandeweghe et al., 2016); Balloon Analogue Risk Task (Lejuez et al., 2002).
 
 ## Getting Started
-
-1. Clone this repo (for help see this [tutorial](https://help.github.com/articles/cloning-a-repository/)).
-2. Raw Data is being kept [here](Repo folder containing raw data) within this repo.
-
-    *If using offline data mention that and how they may obtain the data from the froup)*
-    
-3. Data processing/transformation scripts are being kept [here](Repo folder containing data processing scripts/notebooks)
-4. Structural Equaltion Models are being kept [here]
-5. Model Comparisons are being kept [here]
-6. 
-
-*If your project is well underway and setup is fairly complicated (ie. requires installation of many packages) create another "setup.md" file and link to it here*  
-
-5. Follow setup [instructions](Link to file)
+1. Raw Data is being kept [here](folder containing raw data)
+2. Data processing/transformation scripts are being kept [here](folder containing data processing scripts/notebooks)
+3. Research Questions and Answer scripts are kept [here](folder containing research questions, analyses, and results)
+4. Data Vizualizations scripts are kept [here](folder containing all plots and charts)
 
 ## Featured Notebooks/Analysis/Deliverables
 * [Notebook/Markdown/Slide Deck Title](link)
 * [Notebook/Markdown/Slide DeckTitle](link)
 * [Blog Post](link)
-
-
-## Contributing DSWG Members
-
-**Team Leads (Contacts) : [Full Name](https://github.com/[github handle])(@slackHandle)**
-
-#### Other Members:
-
-|Name     |  Slack Handle   | 
-|---------|-----------------|
-|[Full Name](https://github.com/[github handle])| @johnDoe        |
-|[Full Name](https://github.com/[github handle]) |     @janeDoe    |
-
-## Contact
-* If you haven't joined the SF Brigade Slack, [you can do that here](http://c4sf.me/slack).  
-* Our slack channel is `#datasci-projectname`
-* Feel free to contact team leads with any questions or if you are interested in contributing!
